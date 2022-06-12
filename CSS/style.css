@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: oldlace;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.top-container {
+  background-color: oldlace;;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+
+  }
+.bottom-container {
+}
+.pd{
+  background-color: oldlace;
+}
+.profile-pic{
+  width: 50px;
+  height: 50px;
+}
+
+.Dev{
+  text-decoration: underline;
+}
+
+.top {
+  background-color: oldlace;
+  width: 120px;
+  height: 72px;
+  position: absolute;
+  right: 170px;
+  top: 35px;
+
+}
