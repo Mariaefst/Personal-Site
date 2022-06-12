@@ -38,7 +38,9 @@ h3{
   width: 50px;
   height: 50px;
 }
-
+.profile{
+  margin-top: 15px; 
+}
 .Dev{
   text-decoration: underline;
 }
